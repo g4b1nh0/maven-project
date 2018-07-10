@@ -1,5 +1,5 @@
 /**
-*this is a package for jenkins
+*this is a package for jenkins.
 *
 */
 
